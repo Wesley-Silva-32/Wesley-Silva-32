@@ -1,4 +1,5 @@
-## Olá! Eu sou o Wesley Silva! 👋
+<h2 align="center">Olá 👋! Eu me chamo Wesley e sou um PROANO aprendendo programação!</h2>
+
 #### Aluno do Instituto PROA
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesley_silva32)
